@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="56" Y="9"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="21"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="132" Column="22" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="102" Column="19" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="112" Column="15" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="96" Column="3" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="119" Column="5" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="101" Column="41" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="130" Column="5" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="95" Column="76" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithsaveloadbuttons4.lpr"/>
+        <Caret Line="130" Column="6" TopLine="106"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

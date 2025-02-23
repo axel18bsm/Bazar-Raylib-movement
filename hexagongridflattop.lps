@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="699"/>
+        <CursorPos X="48" Y="715"/>
+        <UsageCount Value="195"/>
+        <Bookmarks Count="2">
+          <Item1 X="8" Y="279" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="boutonclic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BoutonClic"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="22"/>
+        <UsageCount Value="111"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="chargementcsv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Chargementcsv"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="110"/>
+      </Unit>
+      <Unit>
+        <Filename Value="initvariable.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="initVariable"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="69" Y="3"/>
+        <UsageCount Value="105"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="1655"/>
+        <CursorPos X="10" Y="2229"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\variant.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1120"/>
+        <CursorPos X="10" Y="1154"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\windirs.pp"/>
+        <UnitName Value="WinDirs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos Y="68"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos Y="241"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2380"/>
+        <CursorPos Y="2399"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\dati.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos Y="111"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1775"/>
+        <CursorPos Y="1794"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="321"/>
+        <CursorPos X="72" Y="325"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="17" Y="25"/>
+        <UsageCount Value="94"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus\fpc\3.2.2\source\rtl\objpas\math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="5"/>
+        <CursorPos X="2"/>
+        <UsageCount Value="65"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raygui.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="258" Y="583"/>
+        <UsageCount Value="47"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="223"/>
+        <CursorPos X="21" Y="223"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="traceastar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TraceAstar"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="19" Y="6"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="355" Column="29" TopLine="339"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="344" Column="60" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="723" TopLine="686"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="632" Column="43" TopLine="611"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="629" Column="17" TopLine="615"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="633" Column="39" TopLine="613"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="718" Column="4" TopLine="698"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="698" Column="8" TopLine="666"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="29" Column="55" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="6" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="625" Column="24" TopLine="464"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <Caret Line="2229" Column="10" TopLine="1655"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="701" Column="26" TopLine="695"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="703" Column="7" TopLine="681"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="705" Column="7" TopLine="681"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="78" Column="39" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="736" TopLine="510"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="728" Column="5" TopLine="704"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="713" Column="37" TopLine="693"/>
+      </Position>
+      <Position>
+        <Filename Value="traceastar.pas"/>
+        <Caret Line="5" Column="24"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="715" Column="28" TopLine="699"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="6" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="traceastar.pas"/>
+        <Caret Line="8" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="traceastar.pas"/>
+        <Caret Line="6" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="280" Column="9" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="572" Column="14" TopLine="557"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="38" Column="11" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="613" Column="5" TopLine="597"/>
+      </Position>
+      <Position>
+        <Filename Value="hexagongridflattop.lpr"/>
+        <Caret Line="38" Column="11" TopLine="22"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

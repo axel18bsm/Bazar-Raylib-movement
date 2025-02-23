@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="drawnumberedgrid10x12.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DrawFixedColoredNumberedGrid"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="41" Y="22"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1102"/>
+        <CursorPos X="10" Y="1126"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="1">
+      <Position>
+        <Filename Value="drawnumberedgrid10x12.lpr"/>
+        <Caret Line="83" Column="21" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="drawnumberedgrid10x12.lpr"/>
+        <Caret Line="22" Column="41"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
