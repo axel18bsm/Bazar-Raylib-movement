@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos X="57" Y="50"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="24"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="5">
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="32" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="45" Column="28" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="16" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="28" Column="3" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="16" Column="3" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="threebuttonwindow.lpr"/>
+        <Caret Line="56" Column="73" TopLine="36"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

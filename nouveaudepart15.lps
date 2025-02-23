@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="161"/>
+        <CursorPos X="41" Y="186"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="32"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="15">
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="288" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="290" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="293" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="288" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="290" Column="58" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="288" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="290" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="291" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="295" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="298" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="296" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="298" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="297" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="298" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="294" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart15.lpr"/>
+        <Caret Line="298" TopLine="264"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="158"/>
+        <CursorPos X="5" Y="196"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="24"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <Caret Line="273" Column="5" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <Caret Line="6" Column="21"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <Caret Line="195" Column="5" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <Caret Line="33" Column="60" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="nouveaudepart10.lpr"/>
+        <Caret Line="228" Column="14" TopLine="196"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
