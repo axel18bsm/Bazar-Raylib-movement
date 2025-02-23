@@ -1,0 +1,360 @@
+Hexagone #1:
+  Centre: (56, 75)
+  Couleur: 0,228,48
+  Colonne: 1
+  Ligne: 1
+  Emplacement: CoinHG
+  Pair/Impair Ligne: False
+  Voisins: 0,2,6,0,0,0
+
+Hexagone #2:
+  Centre: (108, 75)
+  Couleur: 200,200,200
+  Colonne: 2
+  Ligne: 1
+  Emplacement: BordH
+  Pair/Impair Ligne: False
+  Voisins: 0,3,7,6,1,0
+
+Hexagone #3:
+  Centre: (160, 75)
+  Couleur: 0,228,48
+  Colonne: 3
+  Ligne: 1
+  Emplacement: BordH
+  Pair/Impair Ligne: False
+  Voisins: 0,4,8,7,2,0
+
+Hexagone #4:
+  Centre: (212, 75)
+  Couleur: 200,200,200
+  Colonne: 4
+  Ligne: 1
+  Emplacement: BordH
+  Pair/Impair Ligne: False
+  Voisins: 0,5,9,8,3,0
+
+Hexagone #5:
+  Centre: (264, 75)
+  Couleur: 0,228,48
+  Colonne: 5
+  Ligne: 1
+  Emplacement: CoinHD
+  Pair/Impair Ligne: False
+  Voisins: 0,0,10,9,4,0
+
+Hexagone #6:
+  Centre: (82, 120)
+  Couleur: 200,200,200
+  Colonne: 1
+  Ligne: 2
+  Emplacement: BordG
+  Pair/Impair Ligne: True
+  Voisins: 2,7,12,11,0,1
+
+Hexagone #7:
+  Centre: (134, 120)
+  Couleur: 0,228,48
+  Colonne: 2
+  Ligne: 2
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 3,8,13,12,6,2
+
+Hexagone #8:
+  Centre: (186, 120)
+  Couleur: 200,200,200
+  Colonne: 3
+  Ligne: 2
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 4,9,14,13,7,3
+
+Hexagone #9:
+  Centre: (238, 120)
+  Couleur: 0,228,48
+  Colonne: 4
+  Ligne: 2
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 5,10,15,14,8,4
+
+Hexagone #10:
+  Centre: (290, 120)
+  Couleur: 200,200,200
+  Colonne: 5
+  Ligne: 2
+  Emplacement: BordD
+  Pair/Impair Ligne: True
+  Voisins: 0,0,0,15,9,5
+
+Hexagone #11:
+  Centre: (56, 165)
+  Couleur: 0,228,48
+  Colonne: 1
+  Ligne: 3
+  Emplacement: BordG
+  Pair/Impair Ligne: False
+  Voisins: 6,12,16,0,0,0
+
+Hexagone #12:
+  Centre: (108, 165)
+  Couleur: 200,200,200
+  Colonne: 2
+  Ligne: 3
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 7,13,17,16,11,6
+
+Hexagone #13:
+  Centre: (160, 165)
+  Couleur: 0,228,48
+  Colonne: 3
+  Ligne: 3
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 8,14,18,17,12,7
+
+Hexagone #14:
+  Centre: (212, 165)
+  Couleur: 200,200,200
+  Colonne: 4
+  Ligne: 3
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 9,15,19,18,13,8
+
+Hexagone #15:
+  Centre: (264, 165)
+  Couleur: 0,228,48
+  Colonne: 5
+  Ligne: 3
+  Emplacement: BordD
+  Pair/Impair Ligne: False
+  Voisins: 10,0,20,19,14,9
+
+Hexagone #16:
+  Centre: (82, 210)
+  Couleur: 200,200,200
+  Colonne: 1
+  Ligne: 4
+  Emplacement: BordG
+  Pair/Impair Ligne: True
+  Voisins: 12,17,22,21,0,11
+
+Hexagone #17:
+  Centre: (134, 210)
+  Couleur: 0,228,48
+  Colonne: 2
+  Ligne: 4
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 13,18,23,22,16,12
+
+Hexagone #18:
+  Centre: (186, 210)
+  Couleur: 200,200,200
+  Colonne: 3
+  Ligne: 4
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 14,19,24,23,17,13
+
+Hexagone #19:
+  Centre: (238, 210)
+  Couleur: 0,228,48
+  Colonne: 4
+  Ligne: 4
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 15,20,25,24,18,14
+
+Hexagone #20:
+  Centre: (290, 210)
+  Couleur: 200,200,200
+  Colonne: 5
+  Ligne: 4
+  Emplacement: BordD
+  Pair/Impair Ligne: True
+  Voisins: 0,0,0,25,19,15
+
+Hexagone #21:
+  Centre: (56, 255)
+  Couleur: 0,228,48
+  Colonne: 1
+  Ligne: 5
+  Emplacement: BordG
+  Pair/Impair Ligne: False
+  Voisins: 16,22,26,0,0,0
+
+Hexagone #22:
+  Centre: (108, 255)
+  Couleur: 200,200,200
+  Colonne: 2
+  Ligne: 5
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 17,23,27,26,21,16
+
+Hexagone #23:
+  Centre: (160, 255)
+  Couleur: 0,228,48
+  Colonne: 3
+  Ligne: 5
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 18,24,28,27,22,17
+
+Hexagone #24:
+  Centre: (212, 255)
+  Couleur: 200,200,200
+  Colonne: 4
+  Ligne: 5
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 19,25,29,28,23,18
+
+Hexagone #25:
+  Centre: (264, 255)
+  Couleur: 0,228,48
+  Colonne: 5
+  Ligne: 5
+  Emplacement: BordD
+  Pair/Impair Ligne: False
+  Voisins: 20,0,30,29,24,19
+
+Hexagone #26:
+  Centre: (82, 300)
+  Couleur: 200,200,200
+  Colonne: 1
+  Ligne: 6
+  Emplacement: BordG
+  Pair/Impair Ligne: True
+  Voisins: 22,27,32,31,0,21
+
+Hexagone #27:
+  Centre: (134, 300)
+  Couleur: 0,228,48
+  Colonne: 2
+  Ligne: 6
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 23,28,33,32,26,22
+
+Hexagone #28:
+  Centre: (186, 300)
+  Couleur: 200,200,200
+  Colonne: 3
+  Ligne: 6
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 24,29,34,33,27,23
+
+Hexagone #29:
+  Centre: (238, 300)
+  Couleur: 0,228,48
+  Colonne: 4
+  Ligne: 6
+  Emplacement: Classic
+  Pair/Impair Ligne: True
+  Voisins: 25,30,35,34,28,24
+
+Hexagone #30:
+  Centre: (290, 300)
+  Couleur: 200,200,200
+  Colonne: 5
+  Ligne: 6
+  Emplacement: BordD
+  Pair/Impair Ligne: True
+  Voisins: 0,0,0,35,29,25
+
+Hexagone #31:
+  Centre: (56, 345)
+  Couleur: 0,228,48
+  Colonne: 1
+  Ligne: 7
+  Emplacement: BordG
+  Pair/Impair Ligne: False
+  Voisins: 26,32,36,0,0,0
+
+Hexagone #32:
+  Centre: (108, 345)
+  Couleur: 200,200,200
+  Colonne: 2
+  Ligne: 7
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 27,33,37,36,31,26
+
+Hexagone #33:
+  Centre: (160, 345)
+  Couleur: 0,228,48
+  Colonne: 3
+  Ligne: 7
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 28,34,38,37,32,27
+
+Hexagone #34:
+  Centre: (212, 345)
+  Couleur: 200,200,200
+  Colonne: 4
+  Ligne: 7
+  Emplacement: Classic
+  Pair/Impair Ligne: False
+  Voisins: 29,35,39,38,33,28
+
+Hexagone #35:
+  Centre: (264, 345)
+  Couleur: 0,228,48
+  Colonne: 5
+  Ligne: 7
+  Emplacement: BordD
+  Pair/Impair Ligne: False
+  Voisins: 30,0,40,39,34,29
+
+Hexagone #36:
+  Centre: (82, 390)
+  Couleur: 200,200,200
+  Colonne: 1
+  Ligne: 8
+  Emplacement: CoinBG
+  Pair/Impair Ligne: True
+  Voisins: 32,37,0,0,0,31
+
+Hexagone #37:
+  Centre: (134, 390)
+  Couleur: 0,228,48
+  Colonne: 2
+  Ligne: 8
+  Emplacement: BordB
+  Pair/Impair Ligne: True
+  Voisins: 33,38,0,0,36,32
+
+Hexagone #38:
+  Centre: (186, 390)
+  Couleur: 200,200,200
+  Colonne: 3
+  Ligne: 8
+  Emplacement: BordB
+  Pair/Impair Ligne: True
+  Voisins: 34,39,0,0,37,33
+
+Hexagone #39:
+  Centre: (238, 390)
+  Couleur: 0,228,48
+  Colonne: 4
+  Ligne: 8
+  Emplacement: BordB
+  Pair/Impair Ligne: True
+  Voisins: 35,40,0,0,38,34
+
+Hexagone #40:
+  Centre: (290, 390)
+  Couleur: 200,200,200
+  Colonne: 5
+  Ligne: 8
+  Emplacement: CoinBD
+  Pair/Impair Ligne: True
+  Voisins: 0,0,0,0,39,35
+

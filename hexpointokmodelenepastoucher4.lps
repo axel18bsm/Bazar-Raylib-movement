@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="118"/>
+        <CursorPos X="13" Y="88"/>
+        <UsageCount Value="76"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1066"/>
+        <CursorPos X="138" Y="1080"/>
+        <UsageCount Value="76"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\variant.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1120"/>
+        <CursorPos X="10" Y="1154"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\windirs.pp"/>
+        <UnitName Value="WinDirs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos Y="68"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos Y="241"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2380"/>
+        <CursorPos Y="2399"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\dati.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos Y="111"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1775"/>
+        <CursorPos Y="1794"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="321"/>
+        <CursorPos X="72" Y="325"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="144"/>
+        <CursorPos X="18" Y="269"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="87" Column="60" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="89" Column="23" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="292" Column="3" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="116" Column="11" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="119" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="113" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="104" Column="51" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="116" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="119" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="294" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="296" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="298" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="299" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="300" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="301" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="61" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="116" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="119" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="63" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="306" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="63" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="65" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="67" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="92" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="87" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="89" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="90" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="91" Column="14" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="89" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Caret Line="90" TopLine="77"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Line Value="302"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Line Value="63"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Line Value="74"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Line Value="85"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="hexpointokmodelenepastoucher4.lpr"/>
+        <Line Value="92"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
