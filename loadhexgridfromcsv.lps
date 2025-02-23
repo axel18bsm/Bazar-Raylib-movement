@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="67"/>
+        <CursorPos Y="89"/>
+        <UsageCount Value="104"/>
+        <Bookmarks Count="1"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1428"/>
+        <CursorPos X="19" Y="1460"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\variant.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1120"/>
+        <CursorPos X="10" Y="1154"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\windirs.pp"/>
+        <UnitName Value="WinDirs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos Y="68"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\typinfo.pp"/>
+        <UnitName Value="TypInfo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos Y="241"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2380"/>
+        <CursorPos Y="2399"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\dati.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos Y="111"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1775"/>
+        <CursorPos Y="1794"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="321"/>
+        <CursorPos X="72" Y="325"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="304"/>
+        <CursorPos X="18" Y="269"/>
+        <UsageCount Value="50"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="126" Column="18" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="123" Column="17" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="122" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="125" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="78" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="80" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="81" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="83" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="84" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="87" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="88" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="89" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="90" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="91" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="92" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="93" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="94" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="95" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="98" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="99" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="100" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="101" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="102" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="103" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="105" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="81" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="83" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="84" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="87" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="loadhexgridfromcsv.lpr"/>
+        <Caret Line="88" TopLine="73"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="loadhexgridfromcsv.lpr"/>
+        <Line Value="122"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="loadhexgridfromcsv.lpr"/>
+        <Line Value="125"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="loadhexgridfromcsv.lpr"/>
+        <Line Value="78"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
