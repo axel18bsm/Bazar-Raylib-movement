@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="16" Y="52"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="51" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="53" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="56" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="18" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="25"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="26"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="28" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="29"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="31"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="57" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="20"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="23"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="25"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="26"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="28"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="29"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="31"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="59" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="60" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="63" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="64" Column="22" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="66" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="53" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="56" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamlrondwithtwoobjects.lpr"/>
+        <Caret Line="18"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

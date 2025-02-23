@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="136"/>
+        <CursorPos X="24" Y="162"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="6">
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="30" Column="29" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="36" Column="37" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="24" Column="22" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="193" Column="18" TopLine="179"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="37" Column="20" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Line="22" Column="29" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="bresenhamrondwithtwoobjectsanddistancelimitsecond.lpr"/>
+        <Caret Column="3"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

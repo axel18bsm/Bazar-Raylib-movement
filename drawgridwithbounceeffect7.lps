@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="drawgridwithbounceeffect7.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="215"/>
+        <CursorPos Y="262"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="21"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="drawgridwithbounceeffect7.lpr"/>
+        <Caret Line="276"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithbounceeffect7.lpr"/>
+        <Caret Line="146" Column="19" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithbounceeffect7.lpr"/>
+        <Caret Line="154" Column="3" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithbounceeffect7.lpr"/>
+        <Caret Line="152" Column="17" TopLine="128"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

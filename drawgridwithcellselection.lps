@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DrawGridWithSaveLoadButtons"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="193"/>
+        <CursorPos Y="232"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\Ray4Laz\source\raylib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1785"/>
+        <CursorPos X="11" Y="1805"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <Caret Line="200" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <Caret Line="119" Column="25" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <Caret Line="124" Column="52" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <Caret Line="160" Column="3" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="drawgridwithcellselection.lpr"/>
+        <Caret Line="187" TopLine="148"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
